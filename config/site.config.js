@@ -35,14 +35,14 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://github.com/thangbeta" target="_blank" rel="noopener noreferrer">onedrive-cf-index-ng</a>. Made by P180.',
+    'Powered by <a href="https://github.com" target="_blank" rel="noopener noreferrer">onedrive-cf-index-ng</a>. Made by P180.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: ['/Attachments', '/Demo/😎Another Private Folder Password 123'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto: k01@pap.id.vn',
+  email: 'mailto:',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/thangbeta',
+      link: 'https://github.com',
     },
   ],
 
